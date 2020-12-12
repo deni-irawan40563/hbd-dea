@@ -5035,13 +5035,13 @@ body #container .nav:nth-of-type(2) {
   box-shadow: inset -2px 0 0 #1161a4, inset 2px 0 0 #1161a4;
 }
 body #container .nav:nth-of-type(2):before {
-  content: 'TWO';
+  content: 'HARAPAN';
 }
 body #container .nav:nth-of-type(3):before {
-  content: 'THREE';
+  content: "DO'A";
 }
 body #container .nav:before {
-  content: 'ONE';
+  content: 'INTRO';
   position: absolute;
   display: inline-block;
   color: #1161a4;
